@@ -1,0 +1,17 @@
+{
+  "name": "run-script-while-watch-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin to run a script while webpack is watching files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "watch mode",
+    "script"
+  ],
+  "author": "walkthunder",
+  "license": "ISC"
+}
